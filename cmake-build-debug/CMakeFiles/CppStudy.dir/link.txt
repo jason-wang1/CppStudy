@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/CppStudy.dir/ch01/ch01.cpp.o CMakeFiles/CppStudy.dir/ch02/ch02.cpp.o -o CppStudy.exe -Wl,--out-implib,libCppStudy.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

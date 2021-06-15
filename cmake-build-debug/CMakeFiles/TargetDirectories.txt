@@ -1,0 +1,5 @@
+/cygdrive/c/Users/BoWANG/CLionProjects/CppStudy/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/c/Users/BoWANG/CLionProjects/CppStudy/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/BoWANG/CLionProjects/CppStudy/cmake-build-debug/CMakeFiles/test.dir
+/cygdrive/c/Users/BoWANG/CLionProjects/CppStudy/cmake-build-debug/CMakeFiles/ch02.dir
+/cygdrive/c/Users/BoWANG/CLionProjects/CppStudy/cmake-build-debug/CMakeFiles/ch01.dir
